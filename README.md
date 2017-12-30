@@ -1,7 +1,7 @@
 <h1 align="center">Automated Stock Counting Using a Quadcopter</h1>
 This repo contains an implementation of an optic flow based odometry module for the localization of a multirotor and a marker based package tracking module, for stock counting within warehouse environments. The system has been implemented within the PX4 framework using ROS.
 
-[Thesis](http://karnikram.info/papers/thesis.pdf)
+[Report](http://karnikram.info/papers/thesis.pdf)
 
 <table border="0" cellspacing="10">
   <tr>
