@@ -24,3 +24,5 @@ ROS Packages :
 * [mavros](http://wiki.ros.org/mavros)
 * [cv_bridge](http://wiki.ros.org/cv_bridge)
 
+Collaborators:
+* [Harish S](https://github.com/harish1696)
