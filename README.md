@@ -25,4 +25,4 @@ ROS Packages :
 * [cv_bridge](http://wiki.ros.org/cv_bridge)
 
 Collaborators:
-* [Harish S](https://github.com/harish1696)
+* [Karnik Ram](https://github.com/karnikram)
